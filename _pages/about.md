@@ -1,4 +1,3 @@
-
 I was a Research Engineer at the Agency for Science, Technology and Research (A*STAR), Singapore, and the Institute of Neuroinformatics, University of Zurich and ETH Zürich, Zürich, Switzerland, from 2018 to 2021. My research interests include brain-inspired neural networks, delay learning, neuromorphic applications, EEG decoding, and cognitive modeling.
 
 
