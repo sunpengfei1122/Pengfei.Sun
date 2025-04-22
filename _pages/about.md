@@ -3,13 +3,19 @@ I was a Research Engineer at the Agency for Science, Technology and Research (A*
 
 Publications
 ======
-- title: "Axonal delay as a short-term memory for feed forward deep spiking neural networks"
-  authors: "**Sun, Pengfei** and Zhu, Longwei and Botteldooren, Dick"
-  venue: "ICASSP 2022-2022 IEEE international conference on acoustics, speech and signal processing (ICASSP)"
-  year: 2025
-  paperurl: "https://ieeexplore.ieee.org/abstract/document/9747411"
-  bibtex: "files/axonal.bib"
-  notes: ""
+📄 **Sun, Pengfei** and Zhu, Longwei and Botteldooren, Dick.  
+**Axonal delay as a short-term memory for feed forward deep spiking neural networks.**  
+*ICASSP 2022-2022 IEEE international conference on acoustics, speech and signal processing (ICASSP).*
+
+<a href="https://yourdomain.com/files/your-paper.pdf" target="_blank">
+  <button>PDF</button>
+</a>
+<a href="https://yourdomain.com/files/your-paper.bib" target="_blank">
+  <button>Cite</button>
+</a>
+<a href="https://doi.org/10.1109/TNNLS.xxxxxx" target="_blank">
+  <button>DOI</button>
+</a>
 
 
 
