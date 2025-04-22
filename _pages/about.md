@@ -335,6 +335,22 @@ function copyBib(txtId){
 }
 </script>
 
+<!-- 15. Towards parameter-free attentional spiking neural networks -->
+
+📄 <strong>Sun, P.</strong>, Wu, Jibin, Devos, Paul, & Botteldooren, Dick.
+<strong>Towards parameter‑free attentional spiking neural networks.</strong>
+<em>Neural Networks, 185:107154, 2025.</em>
+<a href="https://doi.org/10.1016/j.neunet.2025.107154" target="_blank"> <button>PDF</button> </a> <button onclick="showBibtex('bib15')">Cite</button> <div id="bib15" style="display:none; position:fixed; top:20%; left:50%; transform:translateX(-50%); background:#fff; border:1px solid #ccc; padding:1em; z-index:100; max-width:600px;"> <pre id="txt15" style="white-space:pre-wrap;"> @article{sun2025parameterfree, title={Towards parameter‐free attentional spiking neural networks}, author={Sun, Pengfei and Wu, Jibin and Devos, Paul and Botteldooren, Dick}, journal={Neural Networks}, volume={185}, pages={107154}, year={2025}, doi={10.1016/j.neunet.2025.107154} } </pre> <button onclick="copyBib('txt15')">Copy</button> <button onclick="hideBibtex('bib15')">Close</button> </div> :contentReference[oaicite:0]{index=0} <!-- 16. Electroencephalography Decoding with Conditional Identification Generator -->
+
+📄 <strong>Sun, P.</strong>, De Winne, Jorg, Zhang, Malu, Devos, Paul, & Botteldooren, Dick.
+<strong>Electroencephalography Decoding with Conditional Identification Generator.</strong>
+<em>Int. J. Neural Systems, 33:2550024, 2025.</em>
+<a href="https://doi.org/10.1142/S0129065725500248" target="_blank"> <button>PDF</button> </a> <button onclick="showBibtex('bib16')">Cite</button> <div id="bib16" style="display:none; position:fixed; top:20%; left:50%; transform:translateX(-50%); background:#fff; border:1px solid #ccc; padding:1em; z-index:100; max-width:600px;"> <pre id="txt16" style="white-space:pre-wrap;"> @article{sun2025eegdecoding, title={Electroencephalography Decoding with Conditional Identification Generator}, author={Sun, Pengfei and De Winne, Jorg and Zhang, Malu and Devos, Paul and Botteldooren, Dick}, journal={International Journal of Neural Systems}, volume={33}, pages={2550024}, year={2025}, doi={10.1142/S0129065725500248} } </pre> <button onclick="copyBib('txt16')">Copy</button> <button onclick="hideBibtex('bib16')">Close</button> </div> :contentReference[oaicite:1]{index=1} <!-- 17. Delayed Knowledge Transfer for Continuous Attention Detection -->
+
+📄 <strong>Sun, P.</strong>, De Winne, Jorg, Zhang, Malu, Devos, Paul, & Botteldooren, Dick.
+<strong>Delayed Knowledge Transfer: Cross‑Modal Knowledge Transfer From Delayed Stimulus to EEG for Continuous Attention Detection Based on Spike‑Represented EEG Signals.</strong>
+<em>Neural Networks, 183:107003, 2025.</em>
+<a href="https://doi.org/10.1016/j.neunet.2025.107003" target="_blank"> <button>PDF</button> </a> <button onclick="showBibtex('bib17')">Cite</button> <div id="bib17" style="display:none; position:fixed; top:20%; left:50%; transform:translateX(-50%); background:#fff; border:1px solid #ccc; padding:1em; z-index:100; max-width:600px;"> <pre id="txt17" style="white-space:pre-wrap;"> @article{sun2025dkt, title={Delayed Knowledge Transfer: Cross‐Modal Knowledge Transfer From Delayed Stimulus to EEG for Continuous Attention Detection Based on Spike‐Represented EEG Signals}, author={Sun, Pengfei and De Winne, Jorg and Zhang, Malu and Devos, Paul and Botteldooren, Dick}, journal={Neural Networks}, volume={183}, pages={107003}, year={2025}, doi={10.1016/j.neunet.2025.107003} } </pre> <button onclick="copyBib('txt17')">Copy</button> <button onclick="hideBibtex('bib17')">Close</button> </div> :contentReference[oaicite:2]{index=2} ::contentReference[oaicite:3]{index=3}
 
 
 
