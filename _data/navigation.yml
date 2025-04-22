@@ -5,11 +5,10 @@
 # prevent it from being included in the site.
 #
 # NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
+#      Markdown formatted page while the second is generated using JSON. - title: "Publications"
+   # url: /publications/
 
 main:
-- title: "Home"
-    url: /_pages/about.md
-      - title: "Publications"
-    url: /publications/
+
+     
 
