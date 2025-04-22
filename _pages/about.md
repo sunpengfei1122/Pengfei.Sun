@@ -6,16 +6,14 @@ Publications
 📄 **Sun, Pengfei** and Zhu, Longwei and Botteldooren, Dick.  
 **Axonal delay as a short-term memory for feed forward deep spiking neural networks.**  
 *ICASSP 2022-2022 IEEE international conference on acoustics, speech and signal processing (ICASSP).*
-
-<a href="https://yourdomain.com/files/your-paper.pdf" target="_blank">
+<a href="https://arxiv.org/abs/2205.02115" target="_blank">
   <button>PDF</button>
 </a>
-<a href="https://yourdomain.com/files/your-paper.bib" target="_blank">
+
+<a href="files/your-paper.bib" target="_blank">
   <button>Cite</button>
 </a>
-<a href="https://doi.org/10.1109/TNNLS.xxxxxx" target="_blank">
-  <button>DOI</button>
-</a>
+
 
 
 
