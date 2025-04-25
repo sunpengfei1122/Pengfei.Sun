@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const pre = document.getElementById(textId);
     if (!pre) return;
     navigator.clipboard.writeText(pre.textContent)
-      .then(() => alert('BibTeX 已复制到剪贴板'))
-      .catch(() => alert('复制失败，请手动复制'));
+      .then(() => alert('BibTeX copied'))
+      .catch(() => alert('failed, please copy'));
   };
 });
