@@ -1,4 +1,28 @@
 {% include base_path %}
+<script>
+  // 显示 BibTeX 弹窗
+  function showBibtex(id) {
+    const el = document.getElementById(id);
+    if (el) el.style.display = 'block';
+  }
+
+  // 隐藏 BibTeX 弹窗
+  function hideBib(id) {
+    const el = document.getElementById(id);
+    if (el) el.style.display = 'none';
+  }
+
+  // 复制 BibTeX 文本到剪贴板
+  function copyBib(textId) {
+    const pre = document.getElementById(textId);
+    if (!pre) return;
+    const text = pre.textContent;
+    navigator.clipboard.writeText(text).then(
+      () => alert('BibTeX 已复制到剪贴板'),
+      () => alert('复制失败，请手动复制')
+    );
+  }
+</script>
 
 <meta charset="utf-8">
 
