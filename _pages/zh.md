@@ -11,7 +11,7 @@ lang: zh-CN
 
 ## 个人简介
 
-**我目前的研究兴趣包括基础模型架构、高效人工智能——尤其是高效大语言模型与注意力机制——以及类脑计算系统。我愿意考虑学术界和工业界的研究、工程及合作机会。如有相关机会或潜在合作，欢迎通过 [sunpengfei1122@hotmail.com](mailto:sunpengfei1122@hotmail.com) 与我联系。**
+**我目前的研究兴趣包括基础模型架构、高效人工智能——尤其是高效大语言模型与注意力机制——以及类脑计算系统。我愿意考虑学术界和工业界的研究、工程及合作机会。如有相关机会或潜在合作，欢迎通过 [sunpengfei1122@hotmail.com](mailto:sunpengfei1122@hotmail.com) 与我联系。** 
 
 我目前是伦敦帝国理工学院 [Neural Reckoning 研究组](https://neural-reckoning.org/)的博士后研究员，与 [Dan Goodman 教授](https://neural-reckoning.org/dan_goodman.html)合作。我的主要研究兴趣包括**基础模型**、**类脑记忆模块**和**时序学习**。
 
@@ -41,8 +41,6 @@ lang: zh-CN
 祝贺硕士研究生 Ziqiao 凭借项目 “Beyond Rate Coding” 获得伦敦帝国理工学院最佳硕士项目奖——Hertha Ayrton Centenary Prize！
 
 ## 精选论文
-
-论文题目和出版信息保留正式英文版本。
 
 ### 2026
 
